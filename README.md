@@ -1,6 +1,4 @@
 # SAP BTP Integration Suite Skills
-
-A [Claude Code / Claude Agent Skill](https://code.claude.com/docs/en/skills) providing
 expert guidance for **SAP Integration Suite** on SAP BTP — Cloud Integration (CPI),
 API Management, B2B/EDI with Trading Partner Management, and the surrounding
 delivery lifecycle.
